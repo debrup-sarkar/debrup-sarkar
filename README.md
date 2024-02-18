@@ -6,7 +6,7 @@
 
 <br> <!-- One line space here -->
 
-<div align="center">🎓 Currently pursuing my Master's degree in **Applied Mechanics**
+🎓 Currently pursuing my Master's degree in **Applied Mechanics**
 
 🔍 Research Interests: Probabilistic Machine Learning, Scientific Machine Learning, Computational Mechanics
 
