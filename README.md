@@ -6,7 +6,7 @@ I'm a Master's student passionate about applying machine learning techniques to 
 
 🎓 Currently pursuing my Master's degree in Applied Mechanics
 
-🔍 Research Interests: Probabilistic Machine Learning, Uncertainty Quantification, Scientific Machine Learning, Computational Mechanics
+🔍 Research Interests: Probabilistic Machine Learning, Scientific Machine Learning, Computational Mechanics
 
 💻 I enjoy exploring the intersection of machine learning and mechanics
 
