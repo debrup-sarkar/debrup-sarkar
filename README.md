@@ -1,4 +1,4 @@
-<div align="center"> # Hello, I'm Debrup Sarkar 👋
+# <div align="center"> Hello, I'm Debrup Sarkar 👋
 
 ### With four parameters I can fit an elephant, and with five I can make him wiggle his trunk. ~ John Von Neumann
 
