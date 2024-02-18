@@ -6,7 +6,7 @@
 
 <br> <!-- One line space here -->
 
-🎓 Currently pursuing my Master's degree in **Applied Mechanics**
+🎓 Currently pursuing my Master's degree in **Applied Mechanics** at the **Indian Institute of Technology, Delhi**
 
 🔍 Research Interests: Probabilistic Machine Learning, Scientific Machine Learning, Computational Mechanics
 
