@@ -1,3 +1,5 @@
+![Profile Image](matrix_scatter_plot_github.png)
+
 # <div align="center"> Hello, I'm Debrup Sarkar 👋
 
 ### <div align="center"> *I have approximate answers and possible beliefs in different degrees of certainty about different things, but I'm not absolutely sure of anything. ~ Richard Feynman*
