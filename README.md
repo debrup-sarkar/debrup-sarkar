@@ -1,4 +1,4 @@
-![Profile Image](matrix_scatter_plot_github.png)
+
 
 # <div align="center"> Hello, I'm Debrup Sarkar 👋
 
