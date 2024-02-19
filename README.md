@@ -30,3 +30,6 @@ Machine Learning Framework: ![TensorFlow](https://img.shields.io/badge/-TensorFl
 ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 
 Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
+
+Connect me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debrup-sarkar)
+
