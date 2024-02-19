@@ -1,10 +1,6 @@
 #### <div align="center"> *I have approximate answers and possible beliefs in different degrees of certainty about different things, but I'm not absolutely sure of anything. ~ Richard Feynman*
 
-<!--
-<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 30px;">
-  <img src="1000107178-04.jpeg" alt="Profile Image" width="300" style="border-radius: 15px;"/>
-</div>
--->
+
 
 # <div align="center"> Hi, I'm Debrup Sarkar 👋
 
