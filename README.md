@@ -14,10 +14,13 @@
 
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white) </div>
+
+Python libraries: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)
 ![PyMC3](https://img.shields.io/badge/-PyMC3-green?style=flat&logo=pymc3&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-blueviolet?style=flat&logo=scipy&logoColor=white) </div>
+
 
