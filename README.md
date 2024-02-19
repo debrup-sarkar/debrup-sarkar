@@ -1,7 +1,7 @@
 #### <div align="center"> *I have approximate answers and possible beliefs in different degrees of certainty about different things, but I'm not absolutely sure of anything. ~ Richard Feynman*
 
-<div align="center">
-  <img src="1000107178-04.jpeg" alt="Profile Image" width="400"/>
+<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
+  <img src="1000107178-04.jpeg" alt="Profile Image" width="400" style="border-radius: 15px;"/>
 </div>
 
 # <div align="center"> Hi, I'm Debrup Sarkar 👋
@@ -30,4 +30,3 @@ Python libraries: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?
 ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
-
