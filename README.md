@@ -23,13 +23,14 @@ Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=p
 
 Machine Learning Framework: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
+
+
+Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
 ![PyMC3](https://img.shields.io/badge/-PyMC3-green?style=flat&logo=pymc3&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
-
-Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
 
 Connect me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debrup-sarkar)
 
