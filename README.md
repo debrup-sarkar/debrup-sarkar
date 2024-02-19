@@ -12,7 +12,7 @@
 
 🔍 Research Interests: Probabilistic Machine Learning, Scientific Machine Learning, Computational Mechanics
 
-💻 I enjoy exploring the intersection of **machine learning and computational solid mechanics**
+💻 I enjoy exploring the intersection of **machine learning and computational mechanics**
 
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
 
