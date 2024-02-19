@@ -1,7 +1,7 @@
 #### <div align="center"> *I have approximate answers and possible beliefs in different degrees of certainty about different things, but I'm not absolutely sure of anything. ~ Richard Feynman*
 
 <div align="center">
-  <img src="1000107178-04.jpeg" alt="Profile Image" width="200"/>
+  <img src="1000107178-04.jpeg" alt="Profile Image" width="400"/>
 </div>
 
 # <div align="center"> Hi, I'm Debrup Sarkar 👋
