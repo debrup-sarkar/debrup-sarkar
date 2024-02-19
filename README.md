@@ -18,6 +18,8 @@
 
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
 
+I am familier with the following languages, libraries etc.
+
 Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
 
