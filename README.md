@@ -1,7 +1,8 @@
 #### <div align="center"> *I have approximate answers and possible beliefs in different degrees of certainty about different things, but I'm not absolutely sure of anything. ~ Richard Feynman*
 
-
-![Profile Image](1000107178-04.jpeg)
+<div align="center">
+  <img src="1000107178-04.jpeg" alt="Profile Image" width="200"/>
+</div>
 
 # <div align="center"> Hi, I'm Debrup Sarkar 👋
 
@@ -19,7 +20,7 @@
 
 Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white) </div>
+![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
 
 Python libraries: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
@@ -28,7 +29,5 @@ Python libraries: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white) </div>
-
-
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 
