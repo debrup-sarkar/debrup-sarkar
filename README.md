@@ -4,7 +4,7 @@
 
 # <div align="center"> Hi, I'm Debrup Sarkar 👋
 
-<div align="center"> I'm a Master's student passionate about applying machine learning techniques to discover material models and constitutive laws. My research focuses on probabilistic machine learning algorithms to quantify uncertainty in computational mechanics. </div>
+<div align="center"> I'm a Master's student passionate about probabilistic machine learning algorithms and their applications in science and engineering .My research primarily focuses on applying machine learning techniques to discover material models and constitutive laws.
 
 
 
@@ -13,7 +13,7 @@
 
 🎓 Currently pursuing my Master's degree in **Applied Mechanics** at the **Indian Institute of Technology, Delhi**
 
-🔍 Research Interests: Probabilistic Machine Learning, Scientific Machine Learning, Computational Mechanics
+🔍 Research Interests: Computational Mechanics, Probabilistic Machine Learning, Scientific Machine Learning
 
 💻 I enjoy exploring the intersection of **machine learning and computational mechanics**
 
