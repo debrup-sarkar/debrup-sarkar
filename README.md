@@ -6,6 +6,10 @@
 
 <div align="center"> I'm a Master's student passionate about applying machine learning techniques to discover material models and constitutive laws. My research focuses on probabilistic machine learning algorithms to quantify uncertainty in computational mechanics. </div>
 
+<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
+  <img src="git_png.png" width="400" style="border-radius: 15px;"/>
+</div>
+
 <br> <!-- One line space here -->
 
 🎓 Currently pursuing my Master's degree in **Applied Mechanics** at the **Indian Institute of Technology, Delhi**
