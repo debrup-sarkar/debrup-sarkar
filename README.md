@@ -4,7 +4,7 @@
 
 # <div align="center"> Hi, I'm Debrup Sarkar 👋
 
-<div align="center"> I'm a Master's student passionate about probabilistic machine learning algorithms and their applications in science and engineering .My research primarily focuses on applying machine learning techniques to discover material models and constitutive laws. </div>
+<div align="center"> I'm a Master's student passionate about probabilistic machine learning algorithms and their applications in science and engineering .My research primarily focuses on applying machine learning techniques to discover material models and constitutive laws. 
 
 
 
