@@ -6,9 +6,6 @@
 
 <div align="center"> I'm a Master's student passionate about applying machine learning techniques to discover material models and constitutive laws. My research focuses on probabilistic machine learning algorithms to quantify uncertainty in computational mechanics. </div>
 
-<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
-  <img src="git_png.png"  width="300" style="border-radius: 15px;"/>
-</div>
 
 
 
@@ -19,6 +16,11 @@
 🔍 Research Interests: Probabilistic Machine Learning, Scientific Machine Learning, Computational Mechanics
 
 💻 I enjoy exploring the intersection of **machine learning and computational mechanics**
+
+
+<div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
+  <img src="git_png.png"  width="300" style="border-radius: 15px;"/>
+</div>
 
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
 
