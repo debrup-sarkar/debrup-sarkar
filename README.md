@@ -19,7 +19,7 @@
 
 
 <div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
-  <img src="mech_git.png"  width="300" style="border-radius: 15px;"/>
+  <img src="black_png.png"  width="300" style="border-radius: 15px;"/>
 </div>
 
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
