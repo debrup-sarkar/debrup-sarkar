@@ -34,12 +34,14 @@ Machine Learning Framework: ![TensorFlow](https://img.shields.io/badge/-TensorFl
 
 
 Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
-![PyMC3](https://img.shields.io/badge/-PyMC3-green?style=flat&logo=pymc3&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 ![Minitab](https://img.shields.io/badge/-Minitab-blueviolet?style=flat&logo=minitab&logoColor=white)
+
+
 
 Connect me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debrup-sarkar)
 
