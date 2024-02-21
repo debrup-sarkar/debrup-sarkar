@@ -31,6 +31,7 @@ Languages: ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=p
 
 Machine Learning Framework: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikit-learn&logoColor=white)
 
 
 Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
