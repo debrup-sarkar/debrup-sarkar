@@ -21,7 +21,7 @@
 <div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
   <img src="black_png.png"  width="300" style="border-radius: 15px;"/>
 </div>
-<br> <!-- One line space here -->
+
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
 <br> <!-- One line space here -->
 
