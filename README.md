@@ -33,14 +33,19 @@ Machine Learning Framework: ![TensorFlow](https://img.shields.io/badge/-TensorFl
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikit-learn&logoColor=white)
 
+Visualization: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
+
 
 Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=latex&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat&logo=scipy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat&logo=seaborn&logoColor=white)
 ![Minitab](https://img.shields.io/badge/-Minitab-blueviolet?style=flat&logo=minitab&logoColor=white)
+
+Operating systems: ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
+
 
 
 
