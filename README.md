@@ -21,8 +21,9 @@
 <div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
   <img src="black_png.png"  width="300" style="border-radius: 15px;"/>
 </div>
-
+<br> <!-- One line space here -->
 📧 Feel free to reach out to me at sarkardebrup.mech@gmail.com
+<br> <!-- One line space here -->
 
 I'm familier to
 
@@ -46,7 +47,7 @@ Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=
 Operating systems: ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
 
-<br> <!-- One line space here -->
+
 <br> <!-- One line space here -->
 
 
