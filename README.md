@@ -46,7 +46,8 @@ Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=
 Operating systems: ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=white)
 
-
+<br> <!-- One line space here -->
+<br> <!-- One line space here -->
 
 
 Connect me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debrup-sarkar)
