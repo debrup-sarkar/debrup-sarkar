@@ -46,6 +46,7 @@ Miscellaneous:![LaTeX](https://img.shields.io/badge/-LaTeX-teal?style=flat&logo=
 ![NumPy](https://img.shields.io/badge/-NumPy-yellow?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)
 ![Minitab](https://img.shields.io/badge/-Minitab-blueviolet?style=flat&logo=minitab&logoColor=white)
+![Parallel Computing](https://img.shields.io/badge/-Parallel_Computing-red?style=flat&logo=parallelcomputing&logoColor=white)
 
 
 
