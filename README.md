@@ -15,7 +15,7 @@
 
 🔍 Research Interests: Computational Mechanics, Probabilistic Machine Learning, Scientific Machine Learning
 
-💻 I enjoy exploring the intersection of **machine learning and computational mechanics**
+💻 I enjoy exploring the intersection of **machine learning, computational mechanics and uncertainty quantification**
 
 
 <div align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 15px;">
